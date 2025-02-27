@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Allow:/*
+Crawl-delay: 3
+
+User-agent: *
+Allow: /*
+
+Sitemap: https://cpcontacts.andytudhope.africa/sitemap.xml
